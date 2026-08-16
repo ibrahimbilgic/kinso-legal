@@ -18,4 +18,4 @@ Türkçedir — kanunun istediği dil odur; EN sekmesi ne olduğunu anlatıp
 Dış bağımlılık yoktur: tek bir `style.css`, tek bir `lang.js`, çerez ve
 izleme kodu yok.
 
-İletişim: <ibrahimbilgicx@gmail.com>
+İletişim: <fellasontheway@gmail.com>
